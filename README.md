@@ -1,6 +1,6 @@
 # 🌈 Super Obby Adventure
 
-**Version:** V.1.0
+**Version:** V.1.2
 
 A colorful 2D obby platformer with **50 stages**, coins, a store, and revives!
 
