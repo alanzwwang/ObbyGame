@@ -1,6 +1,18 @@
 # 🌈 Super Obby Adventure
 
-**Version:** V.1.2
+**Version:** V.1.3
+
+<!-- WHATS-NEW:README:START -->
+## 🆕 What's New in V.1.3
+
+- NEW!!! This What's New pop-up: every update now tells you what changed
+
+### Earlier updates
+
+- **V.1.2:** Version number shown in the corner of the screen
+
+_When you open it, a What's New pop-up shows this once per version. Add `?whatsnew` to the address to see it again._
+<!-- WHATS-NEW:README:END -->
 
 A colorful 2D obby platformer with **50 stages**, coins, a store, and revives!
 
